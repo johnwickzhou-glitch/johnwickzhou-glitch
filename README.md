@@ -36,7 +36,7 @@ My research focuses on:
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/johnwickzhou-glitch/profile-assets/main/me" width="180" style="border-radius: 50%;"/>
+<img src="https://raw.githubusercontent.com/johnwickzhou-glitch/profile-assets/main/me.jfif" width="500"/>
 
 </td>
 </tr>
