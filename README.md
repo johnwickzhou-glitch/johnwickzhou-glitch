@@ -36,7 +36,7 @@ My research focuses on:
 
 <td width="35%" align="center">
 
-<img src="YOUR_PHOTO_LINK" width="180" style="border-radius: 50%;"/>
+<img src="https://raw.githubusercontent.com/johnwickzhou-glitch/profile-assets/main/me" width="180" style="border-radius: 50%;"/>
 
 </td>
 </tr>
@@ -67,7 +67,7 @@ My research focuses on:
 ### 🚗 Autonomous Driving — Motion Planning
 
 <p align="center">
-  <img src="YOUR_IMAGE_1" width="700"/>
+<img src="https://raw.githubusercontent.com/johnwickzhou-glitch/profile-assets/main/crala_.png" width="700"/>
 </p>
 
 - Stochastic MPC formulation  
@@ -79,7 +79,7 @@ My research focuses on:
 ### 🚗 Multi-Agent Planning (US-101 Scenario)
 
 <p align="center">
-  <img src="YOUR_IMAGE_2" width="700"/>
+<img src="https://raw.githubusercontent.com/johnwickzhou-glitch/profile-assets/main/us101.png" width="700"/>
 </p>
 
 - Cooperative trajectory optimization  
@@ -90,7 +90,7 @@ My research focuses on:
 ### 📊 Training Behavior
 
 <p align="center">
-  <img src="YOUR_IMAGE_3" width="600"/>
+<img src="https://raw.githubusercontent.com/johnwickzhou-glitch/profile-assets/main/loss.png" width="600"/>
 </p>
 
 - Stable convergence under complex settings  
